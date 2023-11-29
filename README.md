@@ -18,7 +18,7 @@ The CSS Snippet Cheat Sheet webpage can be used to get informed about CSS syntax
 
 ## Credits
 
-N/A
+Schester, E (2023) The New CSS Reset [Source Code]. https://github.com/elad2412/the-new-css-reset.
 
 ## License
 
